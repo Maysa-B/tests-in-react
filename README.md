@@ -6,9 +6,7 @@ Project developed at the end of block 15, in which I studied about _React Testin
 ### How it works
 Using the library of tests most indicated by React, I produced tests to test an application given from Trybe for the students. It was necessary to cover a big part of the features of the website.
 
-----------
-
-> It's important to highlight that only the documents produced by me are in the repository. For some of the projects, Trybe, which is the course that I'm following, gives us some functions/objects/styling that helps us to conclude the project, so the repository may seem incomplete.
+> It's important to highlight that some documents were provided by Trybe, to help us develop the project. This kind of document has a comment specifying that.  
 
 ----------
 
